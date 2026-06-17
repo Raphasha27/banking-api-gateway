@@ -1,5 +1,7 @@
 # Banking API Gateway
 
+
+[![Coverage](https://img.shields.io/badge/Coverage-JaCoCo-blue?style=flat-square&logo=codecov)](https://github.com/Raphasha27/banking-api-gateway/actions)
 [![CI](https://github.com/koketseraphasha/banking-api-gateway/actions/workflows/ci.yml/badge.svg)](https://github.com/koketseraphasha/banking-api-gateway/actions/workflows/ci.yml)
 
 API gateway for banking microservices with authentication, rate limiting, request validation, and monitoring.
